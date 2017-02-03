@@ -19,6 +19,8 @@ class ViewController: UIViewController, UITableViewDelegate, UITableViewDataSour
         super.viewDidLoad()
         
         print("Avinash")
+        
+        print("New Print Statement")
         // Do any additional setup after loading the view, typically from a nib.
     }
 
