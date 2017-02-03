@@ -13,8 +13,12 @@ class ViewController: UIViewController, UITableViewDelegate, UITableViewDataSour
     @IBOutlet weak var myTableView: UITableView!
     var arrayNames = ["Avinash","Kumar","asdf"]
     
+    
+    
     override func viewDidLoad() {
         super.viewDidLoad()
+        
+        print("Avinash")
         // Do any additional setup after loading the view, typically from a nib.
     }
 
