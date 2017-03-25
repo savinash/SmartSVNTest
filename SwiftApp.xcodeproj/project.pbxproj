@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		E13736621E869F97005DDD66 /* NewTestFile.swift in Sources */ = {isa = PBXBuildFile; fileRef = E13736611E869F97005DDD66 /* NewTestFile.swift */; };
+		E13736641E86A121005DDD66 /* Avinash.swift in Sources */ = {isa = PBXBuildFile; fileRef = E13736631E86A121005DDD66 /* Avinash.swift */; };
 		E17D06FA1E2E5C62001E3CA8 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E17D06F91E2E5C62001E3CA8 /* AppDelegate.swift */; };
 		E17D06FC1E2E5C62001E3CA8 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E17D06FB1E2E5C62001E3CA8 /* ViewController.swift */; };
 		E17D06FF1E2E5C62001E3CA8 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E17D06FD1E2E5C62001E3CA8 /* Main.storyboard */; };
@@ -37,6 +38,7 @@
 
 /* Begin PBXFileReference section */
 		E13736611E869F97005DDD66 /* NewTestFile.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NewTestFile.swift; sourceTree = "<group>"; };
+		E13736631E86A121005DDD66 /* Avinash.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Avinash.swift; sourceTree = "<group>"; };
 		E17D06F61E2E5C62001E3CA8 /* SwiftApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E17D06F91E2E5C62001E3CA8 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		E17D06FB1E2E5C62001E3CA8 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -104,6 +106,7 @@
 				E17D06F91E2E5C62001E3CA8 /* AppDelegate.swift */,
 				E17D06FB1E2E5C62001E3CA8 /* ViewController.swift */,
 				E13736611E869F97005DDD66 /* NewTestFile.swift */,
+				E13736631E86A121005DDD66 /* Avinash.swift */,
 				E17D06FD1E2E5C62001E3CA8 /* Main.storyboard */,
 				E17D07031E2E5C62001E3CA8 /* Assets.xcassets */,
 				E17D07051E2E5C62001E3CA8 /* LaunchScreen.storyboard */,
@@ -268,6 +271,7 @@
 				E17D06FC1E2E5C62001E3CA8 /* ViewController.swift in Sources */,
 				E17D07021E2E5C62001E3CA8 /* SwiftApp.xcdatamodeld in Sources */,
 				E13736621E869F97005DDD66 /* NewTestFile.swift in Sources */,
+				E13736641E86A121005DDD66 /* Avinash.swift in Sources */,
 				E17D06FA1E2E5C62001E3CA8 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
